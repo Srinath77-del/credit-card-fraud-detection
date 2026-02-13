@@ -25,3 +25,9 @@ Public credit card fraud dataset (CSV / ZIP supported).
 
 ## Note
 This script is designed to run in Google Colab.
+
+## How to run
+1. Open the script in Google Colab.
+2. Upload the credit card fraud dataset (CSV or ZIP).
+3. Run all cells.
+4. The model trains and displays evaluation results and ROC curve.
